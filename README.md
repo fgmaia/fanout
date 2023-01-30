@@ -1,0 +1,2 @@
+# fanout
+fan-out pattern
